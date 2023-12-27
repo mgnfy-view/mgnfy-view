@@ -6,6 +6,8 @@ I take interest in a diverse set of domains, such as frontend development, backe
 
 ## My Tech Stack
 
+The languages, frameworks, and tools given below are what I've worked with in the past, and feel confident about. I'm always learning something new, so expect more stuff to be added here!
+
 #### Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
