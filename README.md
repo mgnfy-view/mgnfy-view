@@ -2,7 +2,9 @@
 
 I’m Sahil Gujrati, a computer engineering student from Mumbai, India.
 
-I take interest in a diverse set of domains, such as frontend development, backend development, blockchain development, UI design, and competitive programming. As a student, I believe in getting my feet wet in several technologies to appreciate the application of CS fundamentals, develop insight, and choose the right tools for the right scenarios.
+I take interest in a diverse set of domains, such as smart contract development, smart contract security, frontend development, backend development, UI design, and competitive programming. As a student, I believe in getting my feet wet in several technologies to appreciate the application of CS fundamentals, develop insight, and choose the right tools for the right scenarios.
+
+Currently, I'm focusing on smart contract security and participating in audit contests to contribute in securing the web3 ecosystem!
 
 ## My Tech Stack
 
@@ -29,12 +31,13 @@ The languages, frameworks, and tools given below are what I've worked with in th
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Blockchain Development
+### Smart Contract Development
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Hardhat][hardhat-url]
 ![Eth-Ape](https://img.shields.io/badge/-ETH--APE-FFFFFF.svg?style=for-the-badge)
+![Foundry](https://img.shields.io/badge/-FOUNDRY-%23323330.svg?style=for-the-badge)
 
 ### Tooling
 
@@ -46,7 +49,11 @@ And many more such as prettier, solhint, pylint, black, pnpm, yarn, etc.
 
 ### Testing
 
+To unit test smart contracts in HardHat, I use
+
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+
+However, for more involved testing such as fuzz testing, stateful fuzz testing, and invariant testing, I go with Foundry.
 
 ### Version Control
 
