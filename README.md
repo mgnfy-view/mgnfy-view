@@ -82,3 +82,5 @@ However, for more involved testing such as fuzz testing, stateful fuzz testing, 
 ### Ending Note
 
 I'm always open to new ideas and possibilities. If you'd like to suggest a collaborative project, or improvements on any of my current repositories, feel free to reach me out!
+
+I'm also available to conduct a private audit on your protocols, or join teams for competitive audits!
