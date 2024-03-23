@@ -1,8 +1,6 @@
 # Hi, Welcome to my Github Profile!
 
-I’m Sahil Gujrati, a computer engineering student from Mumbai, India.
-
-I take interest in a diverse set of domains, such as smart contract development, smart contract security, frontend development, backend development, UI design, and competitive programming. As a student, I believe in getting my feet wet in several technologies to appreciate the application of CS fundamentals, develop insight, and choose the right tools for the right scenarios.
+I take interest in a diverse set of domains, such as smart contract development, smart contract security, frontend development, backend development, UI design, and competitive programming. As a computer engineering student, I believe in getting my feet wet in several technologies to appreciate the application of CS fundamentals, develop insight, and choose the right tools for the right scenarios.
 
 Currently, I'm focusing on smart contract security and participating in audit contests to contribute in securing the web3 ecosystem!
 
@@ -86,7 +84,7 @@ I'm also available to conduct a private audit on your protocols, or join teams f
 
 ### Links to My Socials
 
-X: https://twitter.com/Sahil__Gujrati
+X: https://twitter.com/mgnfy_view
 
 LinkedIn: https://linkedin.com/in/sahil-gujrati-125ab0284
 
