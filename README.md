@@ -7,8 +7,13 @@ Besides, I am also a computer engineering student, a blockchain developer and a 
 
 ## My Tech Stack
 
-I work with a ton of languages, frameworks, and tools as I hop from one domain to another, trying to tackle all parts of a product development cycle. This has especially helped me at Monadex Labs, where we being a relatively small team, need to take on multiple roles. Here's a splatter of some languages, frameworks and tools I have worked with,
+I work with a ton of languages, frameworks, and tools as I hop from one domain to another, trying to tackle all parts of the product development cycle. This has especially helped me at Monadex Labs, where we being a relatively small team, need to take on multiple roles. Here's a splatter of some languages, frameworks and tools I have worked with,
 
+<details>
+<summary>
+  peek
+</summary>
+  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -50,7 +55,9 @@ I work with a ton of languages, frameworks, and tools as I hop from one domain t
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
-This is a pretty relaxed list and There's some more stuff for which I couldn't find any badges!
+</details>
+
+This is a pretty relaxed list and there's some more stuff for which I couldn't find any badges!
 
 ### Reach Out
 
