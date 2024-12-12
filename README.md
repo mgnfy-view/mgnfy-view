@@ -2,7 +2,7 @@
 
 I am a co-founder at Monadex Labs 🟣, where we are working towards building the ultimate web3 infrastructure on the upcoming Monad chain.
 
-Besides, I am also a computer engineering student, a blockchain developer and a smart contract security researcher with a passion for decentralized finance. In my free time, I dabble at some UI design and full-stack development, which allows me to weave frictionless digital experiences for my DeFi products.
+Besides, I am also a computer engineering student, a smart contract developer and a security researcher with a passion for decentralized finance. You would generally find me designing and developing protocols, or auditing them on various audit platforms like Sherlock, Code4rena, or CodeHawks.
 
 
 ## My Tech Stack
