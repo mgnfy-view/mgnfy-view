@@ -1,13 +1,13 @@
 # Hi, Welcome to my Github Profile!
 
-I am a co-founder at Monadex Labs 🟣, where we are working towards building the ultimate web3 infrastructure on the upcoming Monad chain.
+I am a co-founder at Monadex Labs, where we are building a custom, gamified AMM engine on Monad.
 
-Besides, I am also a computer engineering student, a smart contract developer and a security researcher with a passion for decentralized finance. You would generally find me designing and developing protocols, or auditing them on various audit platforms like Sherlock, Code4rena, or CodeHawks.
+I am also a computer engineering student, a smart contract developer, and a security researcher with a passion for decentralized finance. You would generally find me designing and developing protocols, or auditing them on various platforms like Sherlock, Code4rena, or CodeHawks.
 
 
 ## My Tech Stack
 
-I work with a ton of languages, frameworks, and tools as I hop from one domain to another, trying to tackle all parts of the product development cycle. This has especially helped me at Monadex Labs, where we being a relatively small team, need to take on multiple roles. Here's a splatter of some languages, frameworks and tools I have worked with,
+I work with a multitude of languages, frameworks, and tools as I hop from one domain to another, trying to tackle all parts of the product development cycle. This has especially helped me at Monadex Labs, where we being a relatively small team, need to take on multiple roles. Here's a splatter of some languages, frameworks and tools I have worked with,
 
 <details>
 <summary>
@@ -17,8 +17,6 @@ I work with a ton of languages, frameworks, and tools as I hop from one domain t
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,7 +40,6 @@ I work with a ton of languages, frameworks, and tools as I hop from one domain t
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
@@ -58,11 +55,9 @@ I work with a ton of languages, frameworks, and tools as I hop from one domain t
 
 </details>
 
-This is a pretty relaxed list and there's some more stuff for which I couldn't find any badges!
-
 ### Reach Out
 
-Here's a gateway to all my socials, don't forget to hit me up!
+Here's a gateway to all my socials. Feel free to hit me up if you've got a project idea, or wanna team up for audits!
 
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mgnfy.view)
 
