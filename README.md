@@ -2,7 +2,7 @@
 
 I am a co-founder at [Monadex Labs](https://x.com/Monadex_labs), where we are building a custom, gamified AMM engine on Monad. I also work as a smart contract engineer at [Positions finance](https://x.com/PositionsFi), a cross-chain lending protocol native to Berachain.
 
-Besides, I am also a computer engineering student, a security researcher with a passion for decentralized finance, and a casual trader. You would generally find me designing and developing protocols, or auditing them on various platforms like Sherlock, Code4rena, or CodeHawks.
+Besides, I am a computer engineering student, a security researcher with a passion for decentralized finance, and a casual trader. You would generally find me designing and developing protocols, or auditing them on various platforms like Sherlock, Code4rena, or CodeHawks.
 
 ## Tech Stack
 
