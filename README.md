@@ -8,7 +8,7 @@ Besides, I am a computer engineering student, a security researcher with a passi
 
 I mostly work on evm compatible chains and solana, so my tech stack generally consists of solidity, foundry, rust, and typescript. Occassionally, I also mess around with altVMs like TON, and Aptos/Sui (with Tact and Move respecctively).
 
-### Reach Out
+## Reach Out
 
 Here's a gateway to all my socials. Feel free to hit me up if you've got a project idea, or wanna team up for audits!
 
