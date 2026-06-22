@@ -1,15 +1,15 @@
-# Hi, Welcome to my GitHub Profile!
+# Sahil Gujrati
 
-I am a smart contract engineer at [Keyring Network](https://www.keyring.network/), a compliance solution for blockchains. Previously, I was a core contributor at [Bubble Finance](https://x.com/bubblefi_xyz), a gamified and secure AMM engine on Monad, and a smart contract engineer at [Positions Finance](https://x.com/PositionsFi), a cross-chain lending protocol native to Berachain.
+Smart contract engineer building RWA infrastructure and DeFi lending protocols. Multi-chain across EVM and Solana, with short background in competitive security research.
 
-Besides, I am a computer engineering student with a passion for decentralized finance, and a casual trader. You would generally find me designing and developing protocols, or auditing them on various platforms like Sherlock, Code4rena, or CodeHawks.
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-gray?style=flat)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
 
-## Tech Stack
+## What I work on
 
-I mostly work on EVM-compatible chains and Solana, so my tech stack generally consists of Solidity, Foundry, Rust, and TypeScript. Occasionally, I also mess around with altVMs like TON, and Aptos/Sui (with Tact and Move respectively).
+Smart contract engineer at [Keyring Network](https://www.keyring.network/), owning protocol design, architecture, and GTM for zk-verified permissioned pools and RWA infrastructure. Previously founding engineer at [Bubble Finance](https://x.com/bubblefi_xyz) (gamified AMM on Monad) and smart contract engineer at [Positions Finance](https://x.com/PositionsFi) (cross-chain lending on Berachain).
 
-## Reach Out
-
-Here's a gateway to all my socials. Feel free to hit me up if you've got a project idea, or want to team up for audits!
-
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mgnfy.view)
+In my spare time I study TradFi and math, or audit on Sherlock, Code4rena, and CodeHawks.
