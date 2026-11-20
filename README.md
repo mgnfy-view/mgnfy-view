@@ -1,15 +1,25 @@
-# Sahil Gujrati
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mgnfy-view/brand/0e21de51101ee10a0d29518a0ac93fdbb76c8e8f/assets/wordmarks/wordmark-horizontal-white.svg">
+  <img src="https://raw.githubusercontent.com/mgnfy-view/brand/0e21de51101ee10a0d29518a0ac93fdbb76c8e8f/assets/wordmarks/wordmark-horizontal-black.svg" alt="Sahil Gujrati" width="360">
+</picture>
 
-Smart contract engineer building RWA infrastructure and DeFi lending protocols. Multi-chain across EVM and Solana, with short background in competitive security research.
+I build things for the fun of it.
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-gray?style=flat)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
+Smart contract engineer at Keyring Network, working on zk-permissioned lending markets and RWA settlement infrastructure.
 
-## What I work on
+I like math, TradFi, DeFi, Swiss design, and video games.
 
-Smart contract engineer at [Keyring Network](https://www.keyring.network/), owning protocol design, architecture, and GTM for zk-verified permissioned pools and RWA infrastructure. Previously founding engineer at [Bubble Finance](https://x.com/bubblefi_xyz) (gamified AMM on Monad) and smart contract engineer at [Positions Finance](https://x.com/PositionsFi) (cross-chain lending on Berachain).
+## Tech stack
 
-In my spare time I study TradFi and math, or audit on Sherlock, Code4rena, and CodeHawks.
+- Languages: Solidity, Rust, TypeScript.
+- Tooling: Foundry.
+- Ecosystems: EVM and Solana.
+
+## Before this
+
+Founding engineer at Bubble Finance (formerly Monadex Labs) and smart contract engineer at Positions Finance. I started out breaking contracts in public audit contests: 20+ findings, 13 of them high severity.
+
+## Find me
+
+- [Resume](https://github.com/mgnfy-view/resume)
+- [Linktree](https://linktr.ee/mgnfy.view)
