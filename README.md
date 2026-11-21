@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/mgnfy-view/brand/0e21de51101ee10a0d29518a0ac93fdbb76c8e8f/assets/banners/linkedin-banner.png" alt="" width="480">
+
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mgnfy-view/brand/0e21de51101ee10a0d29518a0ac93fdbb76c8e8f/assets/wordmarks/wordmark-horizontal-white.svg">
   <img src="https://raw.githubusercontent.com/mgnfy-view/brand/0e21de51101ee10a0d29518a0ac93fdbb76c8e8f/assets/wordmarks/wordmark-horizontal-black.svg" alt="Sahil Gujrati" width="360">
